@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: oeispy
+Version: 0.0.1
+Summary: Simple Python Library for OEIS
+Home-page: https://github.com/phantom-5/oeispy
+Author: Rudra M Biswal
+Author-email: rickrudra@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Keywords: oeis
+Platform: UNKNOWN
+Classifier: Development Status :: Alpha
+Classifier: Intended Auidence :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: python :: 3
