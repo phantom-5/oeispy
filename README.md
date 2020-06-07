@@ -50,6 +50,8 @@ Get Graph and Save Image
 ```sh
 op.getGraph('A000001')
 ```
+![](graph.png)
+
 Get Random
 ```sh
 res=op.getRandom()
