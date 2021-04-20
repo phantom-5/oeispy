@@ -1,6 +1,10 @@
 # oeispy
 Simple Python library for OEIS ( Online Encyclopedia of Integer Sequences )
 
+```sh
+pip install oeispy
+```
+
 List of methods with examples :
 
 Query OEIS
